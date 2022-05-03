@@ -1,0 +1,3 @@
+--main SparrowRipper
+--cpp export
+-lib bitmap
